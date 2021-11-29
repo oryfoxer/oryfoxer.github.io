@@ -1,8 +1,8 @@
 _site
 .sass-cache
-node_modules
-.DS_STORE
 .jekyll-cache
-.env
-.prettierignore
 .jekyll-metadata
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Gemfile.lock
